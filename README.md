@@ -9,17 +9,18 @@
 
 ### Tool stack
 
- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+  ![Microsoft office suite](https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white)
   
 ### OS
 
   ![Windows](https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=Windows&logoColor=white)
   ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
-
-
+ 
+### Stats
 | <img src="https://github-readme-stats.vercel.app/api?username=AltTheo&show_icons=true&theme=github_dark"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AltTheo&layout=compact&langs_count=8&exclude_repo=Unity101&theme=github_dark"> |
 | - | - |
   
