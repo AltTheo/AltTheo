@@ -11,7 +11,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=PostgreSQL&logoColor=white)
 
-#### Tool stack 🧰
+#### Tools/Environments 🧰
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=IntelliJ-IDEA&logoColor=white)
