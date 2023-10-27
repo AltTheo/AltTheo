@@ -4,6 +4,9 @@
 
 | <img src="https://github-readme-stats.vercel.app/api?username=AltTheo&show_icons=true&theme=github_dark"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AltTheo&layout=compact&langs_count=8&exclude_repo=Unity101&theme=github_dark"> |
 | - | - |
+
+ ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-333333?style=flat&logo=intellij-idea)
 <!--
 **AltTheo/AltTheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
