@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AltTheo&theme=windows-dark&border_radius=15&card_width=500&type=png)](https://git.io/streak-stats)
-
-
 ### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
