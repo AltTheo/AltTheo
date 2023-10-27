@@ -1,4 +1,4 @@
-(AltTheo/github-header-image.png)
+![Header](AltTheo/github-header-image.png)
 ## Welcome🙏🏾
 
 #### Tech Stack 🔧
