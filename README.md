@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AltTheo&theme=windows-dark&border_radius=15&card_width=500&type=png)](https://git.io/streak-stats)
+
 <!--
 **AltTheo/AltTheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
